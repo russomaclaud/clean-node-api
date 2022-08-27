@@ -1,0 +1,19 @@
+{
+    "name": "clean-node-api",
+    "version": "1.0.0",
+    "description": "Clean Arquitecture en nodejs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/russomaclaud/clean-node-api.git"
+    },
+    "author": "Efrén Quintero",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/russomaclaud/clean-node-api/issues"
+    },
+    "homepage": "https://github.com/russomaclaud/clean-node-api#readme"
+}
