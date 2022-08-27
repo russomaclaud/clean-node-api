@@ -4,7 +4,8 @@
     "description": "Clean Arquitecture en nodejs",
     "main": "index.js",
     "scripts": {
-        "test": "jest --watchAll"
+        "test": "jest --watch",
+        "test:ci": "jest --coverage"
     },
     "repository": {
         "type": "git",
